@@ -53,7 +53,7 @@ I am a Devops / Backend Developer from Germany.
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="Aws" alt="Aws" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>
   <img src="https://helm.sh/img/helm.svg" title="Helm" alt="Helm" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/terraformio/terraformio-icon.svg" title="Terraform" alt="Terraform" width="40" height="40"/>
+  <img src="./img/terraform-icon.svg" title="Terraform" alt="Terraform" width="40" height="40"/>
     <br/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="Jetbrains" alt="Jetbrains" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="React" alt="React" width="40" height="40"/>
