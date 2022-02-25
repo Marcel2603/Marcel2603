@@ -28,8 +28,8 @@ I am a Devops / Backend Developer from Germany.
 
 - :zap: In my free time, I learn various technologies (like python, aws, reactJs) and read tech articles.
 
-- :mailbox:How to reach
-  me: [![Xing Badge](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Marcel_Herhold)
+- :mailbox: How to reach me:
+  [![Xing Badge](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white&logoWidth=10)](https://www.xing.com/profile/Marcel_Herhold)
 
 ---
 
@@ -55,7 +55,6 @@ I am a Devops / Backend Developer from Germany.
   <img src="https://helm.sh/img/helm.svg" title="Helm" alt="Helm" width="40" height="40"/>
   <img src="./img/terraform-icon.svg" title="Terraform" alt="Terraform" width="40" height="40"/>
     <br/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="Jetbrains" alt="Jetbrains" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="React" alt="React" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="React" alt="React" width="40" height="40"/>
 </div>
