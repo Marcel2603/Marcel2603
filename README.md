@@ -57,6 +57,7 @@ I am a Devops / Backend Developer from Germany.
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="React" alt="React" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="React" alt="React" width="40" height="40"/>
 </div>
+
 ---
 
 ### :fire: My Stats:
