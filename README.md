@@ -23,7 +23,7 @@ I am a Devops / Backend Developer from Germany.
 - :telescope: I’m working as a Software Engineer and contributing to frontend, backend and ops for building web
   applications.
 
-- :zap: In my free time, I learn various technologies (like python, aws, reactJs) and read tech articles.
+- :zap: In my free time, I learn various technologies (like python, aws, golang) and read tech articles.
 
 - :mailbox: How to reach me:
   [![Xing Badge](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white&logoWidth=10)](https://www.xing.com/profile/Marcel_Herhold)
@@ -69,5 +69,6 @@ I am a Devops / Backend Developer from Germany.
 ### Repositories
 
 <div id="repositories">
-<a href="https://github.com/Marcel2603/DhallDockerCompose"><img src="https://gh-card.dev/repos/Marcel2603/DhallDockerCompose.svg" alt=""></a>
+<a href="https://github.com/Marcel2603/tfcoach"><img src="https://gh-card.dev/repos/Marcel2603/tfcoach.svg" alt=""></a>
+<a href="https://github.com/Marcel2603/ldap-password-change"><img src="https://gh-card.dev/repos/Marcel2603/ldap-password-change.svg" alt=""></a>
 </div>
