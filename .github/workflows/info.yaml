@@ -24,3 +24,7 @@ jobs:
           plugin_languages_limit: 10
           plugin_contributors: true
           plugin_contributors_contributions: true
+          plugin_lines: yes
+          plugin_lines_history_limit: 1
+          plugin_lines_repositories_limit: 4
+          plugin_lines_sections: base
