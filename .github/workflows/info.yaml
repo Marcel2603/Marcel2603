@@ -1,0 +1,26 @@
+name: Readme
+on:
+  schedule:
+    - cron: "0 0 */7 * *"
+  workflow_dispatch:
+  push:
+    branches: ["main"]
+jobs:
+  readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    environment:
+      name: Production
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          config_timezone: Europe/Berlin
+          token: ${{ secrets.PAT }}
+          base: header, activity, repositories
+          plugin_introduction: true
+          plugin_languages: true
+          plugin_languages_details: percentage
+          plugin_languages_limit: 10
+          plugin_contributors: true
+          plugin_contributors_contributions: true
